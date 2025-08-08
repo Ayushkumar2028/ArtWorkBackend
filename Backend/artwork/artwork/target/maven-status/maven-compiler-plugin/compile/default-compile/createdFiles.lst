@@ -1,0 +1,4 @@
+com\ArtGallry\artwork\ArtworkApplication.class
+com\ArtGallry\artwork\controller\ImageController.class
+com\ArtGallry\artwork\model\Artdata.class
+com\ArtGallry\artwork\repository\ArtRepository.class
